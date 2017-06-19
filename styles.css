@@ -1,0 +1,58 @@
+div.ui.branding{
+	font-size:30px;
+	margin-left:10px;
+	margin-top:20px;
+		
+}
+div.fourteen.wide.column{
+	margin-top:15px;
+	z-index:0;
+}
+div.ui.banner{
+	z-index:0;
+	margin-top:30px;
+	margin-bottom:40px;
+	
+	
+}
+button.ui.orange.button, button.ui.orange.basic.button{
+	background-color:#fdb579;
+}
+div.sixteen.wide.column {
+		background: rgba(253, 150, 64, 0.9);
+		height:4rem;
+		z-index:1;
+		padding-bottom:1rem;
+		margin-top:0;
+		width:100%;
+		}
+div.ui.username{
+	font-size:12px;
+	float:right;
+	margin-right:10px;
+	margin-top:20px;
+}
+span.logout{
+	text-decoration:underline;
+}
+
+segment{
+	margin-top:50px;
+}
+
+.sidemenu{
+	z-index:-1;
+	opacity:
+}
+.ui.grid>.column:not(.row){
+	padding-top:0px;
+}
+h1{
+	margin-top:0px;
+}
+h2{
+margin-bottom:0px;
+}
+header, div.five.wide.column{
+	margin-top:10px;
+}
